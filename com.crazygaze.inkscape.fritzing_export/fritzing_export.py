@@ -26,7 +26,8 @@ class FritzingExport(TempDirMixin, inkex.EffectExtension):
         ))
 
         tempDocumentPath = os.path.splitext(self.document_path())[0] + "_fritzing.svg"
-        os.remove(tempDocumentPath)
+        if os.path.exists(tempDocumentPath):
+            os.remove(tempDocumentPath)
         write_svg(tempDocument, tempDocumentPath)
 
 if __name__ == '__main__':

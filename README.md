@@ -1,12 +1,14 @@
 # FritzingParts
 
 My custom Fritzing parts.
-I use these just for Breadboard views, so they are not fully functional/correct Fritzing parts.
+I use these just for Breadboard views so it makes it easier to design my projects. They are NOT fully functional/correct Fritzing parts.
 
 
 # SVG files
 
 To edit the SVG files, I use Inkscape (https://inkscape.org/).
+
+Fritzing only accepts a limited number of fonts in the SVG file, so install these fonts in `3rdparty\fontsandtemplates.zip`
 
 ## Inkscape extension
 
@@ -18,8 +20,5 @@ The extension is in the folder `com.crazygaze.inkscape.fritzing_export`, and the
 # Random notes
 
 * If a custom part shows up as red in the breadboard, it probably means not all the connectors are mapped in the parts editor.
-
-
-
 
 

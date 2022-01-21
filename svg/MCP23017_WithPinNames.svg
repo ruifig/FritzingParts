@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="31.375"
-     inkscape:cy="36.25"
+     inkscape:zoom="8"
+     inkscape:cx="58.875"
+     inkscape:cy="-2.625"
      inkscape:window-width="1783"
-     inkscape:window-height="1240"
+     inkscape:window-height="1368"
      inkscape:window-x="1589"
-     inkscape:window-y="1264"
+     inkscape:window-y="1200"
      inkscape:window-maximized="0"
-     inkscape:current-layer="breadboard-5"
+     inkscape:current-layer="text5796"
      objecttolerance="20"
      inkscape:snap-global="true"
      inkscape:snap-nodes="true"
@@ -236,6 +236,114 @@
              fill-opacity="1"
              stroke="none"
              fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector17pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="84.959999"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector18pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="77.760002"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector19pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="70.559998"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector20pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="63.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector21pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="56.16"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector22pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="48.959999"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector23pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="41.759998"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector24pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="34.560001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector25pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="27.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector26pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="20.16"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector27pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="12.96"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector28pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="5.7600002"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
         </g>
         <path
            d="M 12.96,27.36 11.88,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
@@ -434,47 +542,11 @@
            stroke="none"
            stroke-width="0"
            fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector20pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="63.360001"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector19pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="70.559998"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector18pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="77.760002"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector17pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="84.959999"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
         <path
            d="m 3.6,10.8 v 0.725 3.6 h 0.65 c 1.45882,0.153911 2.6,1.37442 2.6,2.875 0,1.50491 -1.13508,2.72687 -2.6,2.875 H 3.6 V 25.2 l 1.45,-1.45 v -1.6 c 1.84118,-0.486329 3.2,-2.15801 3.2,-4.15 0,-1.99199 -1.35882,-3.66367 -3.2,-4.15 v -1.6 h 69.1 28.8 L 104.4,10.8 H 75.6 74.15 4.325 Z"
            id="path3842"
            fill-opacity="0.156863"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:normal;font-family:Sans;-inkscape-font-specification:OCRA;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;marker:none;enable-background:accumulate"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:normal;font-family:OCRA;-inkscape-font-specification:OCRA;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;marker:none;enable-background:accumulate"
            stroke="none"
            font-size="medium"
            stroke-width="1.41732"
@@ -550,78 +622,6 @@
            style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
            stroke="none"
            stroke-width="0"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector22pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="48.959999"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector21pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="56.16"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector26pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="20.16"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector25pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="27.360001"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector24pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="34.560001"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector23pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="41.759998"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector28pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="5.7600002"
-           fill-opacity="1"
-           stroke="none"
-           fill="#999999" />
-        <rect
-           width="2.8800001"
-           id="connector27pin"
-           height="2.8800001"
-           y="5.7600098"
-           x="12.96"
-           fill-opacity="1"
-           stroke="none"
            fill="#999999" />
       </g>
       <g
@@ -823,6 +823,210 @@
              x="-4.3421526"
              y="8.8134241"
              id="tspan59818-8-1-7-5-9">NC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-4.3698177"
+           y="5.5484891"
+           id="text49490-8-16-4-6-6-8"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-4.3698177"
+             y="5.5484891"
+             id="tspan59818-8-1-7-5-9-6">A0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-6.5556588"
+           y="5.5484891"
+           id="text49490-8-16-4-6-6-8-9"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-6.5556588"
+             y="5.5484891"
+             id="tspan59818-8-1-7-5-9-6-2">A0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-8.8832178"
+           y="5.5484891"
+           id="text49490-8-16-4-6-6-8-95"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-8.8832178"
+             y="5.5484891"
+             id="tspan59818-8-1-7-5-9-6-7">A1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-11.166067"
+           y="5.5483012"
+           id="text49490-8-16-4-6-6-8-1"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-11.166067"
+             y="5.5483012"
+             id="tspan59818-8-1-7-5-9-6-71">A2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-13.558849"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-4"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-13.558849"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-3">B</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-13.558849"
+             y="5.5585055"
+             id="tspan196141">INT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-15.89284"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-6"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-15.89284"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-9">A</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-15.89284"
+             y="5.5585055"
+             id="tspan195497">INT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-18.222567"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-2"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-18.222567"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-32">0</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-18.222567"
+             y="5.5585055"
+             id="tspan193053">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-20.580585"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-67"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-20.580585"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-4">1</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-20.580585"
+             y="5.5585055"
+             id="tspan191839">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-22.901514"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-10"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-22.901514"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-42">2</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-22.901514"
+             y="5.5585055"
+             id="tspan190949">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-25.254049"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-23"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-25.254049"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-92">3</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-25.254049"
+             y="5.5585055"
+             id="tspan190341">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-27.580462"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-93"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-27.580462"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-1">4</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-27.580462"
+             y="5.5585055"
+             id="tspan189533">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-29.930864"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-49"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-29.930864"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-19">5</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-29.930864"
+             y="5.5585055"
+             id="tspan187701">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-32.280087"
+           y="4.4560757"
+           id="text49490-8-16-4-6-6-8-18"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-32.280087"
+             y="4.4560757"
+             id="tspan59818-8-1-7-5-9-6-15">6</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-32.280087"
+             y="5.5585055"
+             id="tspan187111">GPA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-34.511391"
+           y="4.4560962"
+           id="text49490-8-16-4-6-6-8-96"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-34.511391"
+             y="4.4560962"
+             id="tspan59818-8-1-7-5-9-6-6">7</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-34.511391"
+             y="5.558526"
+             id="tspan185665">GPA</tspan></text>
       </g>
     </g>
   </g>

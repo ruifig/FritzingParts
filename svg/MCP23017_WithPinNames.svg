@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.560001mm"
+   height="8.6359968mm"
+   viewBox="0 0 35.560001 8.6359969"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="MCP23017_WithPinNames.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4"
+     inkscape:cx="31.375"
+     inkscape:cy="36.25"
+     inkscape:window-width="1783"
+     inkscape:window-height="1240"
+     inkscape:window-x="1589"
+     inkscape:window-y="1264"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="breadboard-5"
+     objecttolerance="20"
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-to-guides="true"
+     guidetolerance="10000"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-center="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       spacingx="0.254"
+       spacingy="0.254"
+       originx="36.167954"
+       originy="-1.9429781" />
+    <sodipodi:guide
+       position="0.099956618,2.9589753"
+       orientation="1,0"
+       id="guide137901" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2068"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#7f3f98;stop-opacity:1;"
+         offset="0"
+         id="stop2066" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(36.040956,-2.0699781)">
+    <g
+       id="breadboard"
+       transform="matrix(1.0857143,0,0,1.0545455,0.4971143,0.50107273)">
+      <g
+         id="breadboard-5"
+         transform="matrix(0.3249269,0,0,0.33453064,-34.823222,-0.43914474)"
+         style="display:inline"
+         inkscape:label="original">
+        <g
+           id="g177390"
+           inkscape:label="Pins">
+          <rect
+             width="2.8800001"
+             id="connector1pin"
+             height="2.8800001"
+             y="27.360001"
+             x="5.7600002"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector2pin"
+             height="2.8800001"
+             y="27.360001"
+             x="12.96"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector3pin"
+             height="2.8800001"
+             y="27.360001"
+             x="20.16"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector4pin"
+             height="2.8800001"
+             y="27.360001"
+             x="27.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector5pin"
+             height="2.8800001"
+             y="27.360001"
+             x="34.560001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector6pin"
+             height="2.8800001"
+             y="27.360001"
+             x="41.759998"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector7pin"
+             height="2.8800001"
+             y="27.360001"
+             x="48.959999"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector8pin"
+             height="2.8800001"
+             y="27.360001"
+             x="56.16"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector9pin"
+             height="2.8800001"
+             y="27.360001"
+             x="63.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector10pin"
+             height="2.8800001"
+             y="27.360001"
+             x="70.559998"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector11pin"
+             height="2.8800001"
+             y="27.36001"
+             x="77.754044"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8799999"
+             id="connector12pin"
+             height="2.8800001"
+             y="27.36001"
+             x="84.95433"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector13pin"
+             height="2.8800001"
+             y="27.36001"
+             x="92.159996"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector14pin"
+             height="2.8800001"
+             y="27.36001"
+             x="99.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector15pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="99.360001"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+          <rect
+             width="2.8800001"
+             id="connector16pin"
+             height="2.8800001"
+             y="5.7600098"
+             x="92.160004"
+             fill-opacity="1"
+             stroke="none"
+             fill="#999999" />
+        </g>
+        <path
+           d="M 12.96,27.36 11.88,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5756"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 5.76,27.36 V 25.2 h 3.96 v 1.44 l -1.08,0.72"
+           id="path5758"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 20.16,27.36 19.08,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5760"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 27.36,27.36 26.28,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5762"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 34.56,27.36 33.48,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5764"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 41.76,27.36 40.68,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5766"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 48.96,27.36 47.88,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path5768"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 102.24,27.36 V 25.2 h -3.96 v 1.44 l 1.08,0.72"
+           id="path5770"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 12.96,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 15.84,8.64"
+           id="path5772"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 5.76,8.64 V 10.8 H 9.72 V 9.36 L 8.64,8.64"
+           id="path5774"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 20.16,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 23.04,8.64"
+           id="path5776"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 27.36,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 30.24,8.64"
+           id="path5778"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 34.56,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 37.44,8.64"
+           id="path5780"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 41.76,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 44.64,8.64"
+           id="path5782"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 77.76,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 80.64,8.64"
+           id="path5784"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 102.24,8.64 V 10.8 H 98.28 V 9.36 l 1.08,-0.72"
+           id="path5786"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <rect
+           width="100.8"
+           id="rect5716"
+           height="14.4066"
+           y="10.7934"
+           x="3.5999999"
+           fill-opacity="1"
+           style="display:inline;fill-rule:evenodd"
+           stroke="none"
+           fill="#333333" />
+        <g
+           transform="translate(7.20831,-360.48)"
+           id="g40952">
+          <g
+             xml:space="preserve"
+             id="text5796"
+             fill-opacity="1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:OCRA;-inkscape-font-specification:OCRA;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline"
+             stroke="none"
+             font-size="6.4px"
+             fill="#000000">
+<g
+   id="tspan5798"
+   fill-opacity="1"
+   fill="#e2e2e2">
+<text
+   id="tspan7125"
+   y="381"
+   x="46.808102"
+   fill-opacity="0.235294"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;fill-opacity:0.235294"
+   fill="#ffffff"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.4px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     id="tspan164654">MCP23017</tspan></text>
+</g>
+</g>
+        </g>
+        <path
+           d="M 56.16,27.36 55.08,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path3050"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 63.36,27.36 62.28,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path3052"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 92.16,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 95.04,8.64"
+           id="path3054"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 84.96,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 87.84,8.64"
+           id="path3056"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector20pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="63.360001"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector19pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="70.559998"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector18pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="77.760002"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector17pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="84.959999"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <path
+           d="m 3.6,10.8 v 0.725 3.6 h 0.65 c 1.45882,0.153911 2.6,1.37442 2.6,2.875 0,1.50491 -1.13508,2.72687 -2.6,2.875 H 3.6 V 25.2 l 1.45,-1.45 v -1.6 c 1.84118,-0.486329 3.2,-2.15801 3.2,-4.15 0,-1.99199 -1.35882,-3.66367 -3.2,-4.15 v -1.6 h 69.1 28.8 L 104.4,10.8 H 75.6 74.15 4.325 Z"
+           id="path3842"
+           fill-opacity="0.156863"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:normal;font-family:Sans;-inkscape-font-specification:OCRA;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;marker:none;enable-background:accumulate"
+           stroke="none"
+           font-size="medium"
+           stroke-width="1.41732"
+           fill="#ffffff" />
+        <path
+           d="M 3.6,25.2 H 104.4 V 10.8 l -1.44,1.44 V 23.76 H 5.04 L 3.6,25.2"
+           id="path7926"
+           fill-opacity="0.235294"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0.144"
+           fill="#000000" />
+        <path
+           d="M 70.56,27.36 69.48,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path8471"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 77.76,27.36 76.68,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path8473"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 84.96,27.36 83.88,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path8475"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="M 92.16,27.36 91.08,26.64 V 25.2 h 5.04 v 1.44 l -1.08,0.72"
+           id="path8477"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 48.96,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 51.84,8.64"
+           id="path8479"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 63.36,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 66.24,8.64"
+           id="path8481"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 56.16,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 59.04,8.64"
+           id="path8483"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <path
+           d="m 70.56,8.64 -1.08,0.72 v 1.44 h 5.04 V 9.36 L 73.44,8.64"
+           id="path8485"
+           fill-opacity="1"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill-rule:nonzero;marker:none;enable-background:accumulate"
+           stroke="none"
+           stroke-width="0"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector22pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="48.959999"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector21pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="56.16"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector26pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="20.16"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector25pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="27.360001"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector24pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="34.560001"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector23pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="41.759998"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector28pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="5.7600002"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+        <rect
+           width="2.8800001"
+           id="connector27pin"
+           height="2.8800001"
+           y="5.7600098"
+           x="12.96"
+           fill-opacity="1"
+           stroke="none"
+           fill="#999999" />
+      </g>
+      <g
+         id="g125744"
+         inkscape:label="PinNames"
+         transform="translate(2.1188237,-1.2325594)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-34.510948"
+           y="8.7916136"
+           id="text49490"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-34.510948"
+             y="8.7916136"
+             id="tspan54476">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-34.510948"
+             y="9.8940439"
+             id="tspan59818">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-32.277359"
+           y="8.8131857"
+           id="text49490-8"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-32.277359"
+             y="8.8131857"
+             id="tspan54476-2">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-32.277359"
+             y="9.915616"
+             id="tspan59818-8">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-29.934315"
+           y="8.8134241"
+           id="text49490-8-0"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-29.934315"
+             y="8.8134241"
+             id="tspan54476-2-3">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-29.934315"
+             y="9.9158545"
+             id="tspan59818-8-2">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881836px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264551"
+           x="-27.58086"
+           y="8.8123455"
+           id="text49490-8-8"
+           transform="scale(0.99987767,1.0001223)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881836px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264551"
+             x="-27.58086"
+             y="8.8123455"
+             id="tspan54476-2-0">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881836px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264551"
+             x="-27.58086"
+             y="9.9146404"
+             id="tspan59818-8-9">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-25.252674"
+           y="8.8134241"
+           id="text49490-8-1"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-25.252674"
+             y="8.8134241"
+             id="tspan54476-2-2">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-25.252674"
+             y="9.9158545"
+             id="tspan59818-8-5">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-22.911917"
+           y="8.8134241"
+           id="text49490-8-5"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-22.911917"
+             y="8.8134241"
+             id="tspan54476-2-9">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-22.911917"
+             y="9.9158545"
+             id="tspan59818-8-4">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-20.561789"
+           y="8.8134241"
+           id="text49490-8-53"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-20.561789"
+             y="8.8134241"
+             id="tspan54476-2-4">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-20.561789"
+             y="9.9158545"
+             id="tspan59818-8-6">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-18.225019"
+           y="8.8134241"
+           id="text49490-8-16"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-18.225019"
+             y="8.8134241"
+             id="tspan54476-2-8">GPB</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-18.225019"
+             y="9.9158545"
+             id="tspan59818-8-1">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-15.8737"
+           y="8.8134241"
+           id="text49490-8-16-4"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-15.8737"
+             y="8.8134241"
+             id="tspan59818-8-1-7">VDD</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-13.534226"
+           y="8.8134241"
+           id="text49490-8-16-4-6"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-13.534226"
+             y="8.8134241"
+             id="tspan59818-8-1-7-5">VSS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-11.212737"
+           y="8.8134241"
+           id="text49490-8-16-4-6-0"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-11.212737"
+             y="8.8134241"
+             id="tspan59818-8-1-7-5-6">NC</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-8.855279"
+           y="8.8134241"
+           id="text49490-8-16-4-6-9"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-8.855279"
+             y="8.8134241"
+             id="tspan59818-8-1-7-5-8">SCL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-6.5482855"
+           y="8.8134241"
+           id="text49490-8-16-4-6-1"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-6.5482855"
+             y="8.8134241"
+             id="tspan59818-8-1-7-5-5">SDA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="-4.3421526"
+           y="8.8134241"
+           id="text49490-8-16-4-6-6"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="-4.3421526"
+             y="8.8134241"
+             id="tspan59818-8-1-7-5-9">NC</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

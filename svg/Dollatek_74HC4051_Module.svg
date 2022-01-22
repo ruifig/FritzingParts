@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-18.384776"
-     inkscape:cy="44.017397"
-     inkscape:window-width="1720"
-     inkscape:window-height="1040"
-     inkscape:window-x="353"
-     inkscape:window-y="1289"
+     inkscape:zoom="32.000001"
+     inkscape:cx="33.546874"
+     inkscape:cy="44.374998"
+     inkscape:window-width="1842"
+     inkscape:window-height="1368"
+     inkscape:window-x="72"
+     inkscape:window-y="1200"
      inkscape:window-maximized="0"
      inkscape:current-layer="breadboard"
      objecttolerance="20"
@@ -75,8 +75,7 @@
      transform="translate(-0.635,-0.635)">
     <g
        id="breadboard"
-       transform="matrix(1.0857143,0,0,1.0545455,0.4971143,0.50107273)"
-       sodipodi:insensitive="true">
+       transform="matrix(1.0857143,0,0,1.0545455,0.4971143,0.50107273)">
       <rect
          style="display:inline;fill:#7f3f98;fill-opacity:1;fill-rule:evenodd;stroke-width:0.928839"
          id="rect5525"
@@ -226,16 +225,17 @@
       </g>
       <g
          id="g145510"
-         inkscape:label="pin names">
+         inkscape:label="pin names"
+         style="display:inline">
         <text
            xml:space="preserve"
            x="3.2649"
            y="4.8482585"
            id="text13455"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;fill-opacity:1">VEE</text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">VEE</text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"
            x="3.2649"
            y="7.2568793"
            id="text13455-8">VCC</text>
@@ -244,16 +244,16 @@
            x="3.2649"
            y="9.6654997"
            id="text13455-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;fill-opacity:1">GND</text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">GND</text>
         <text
            xml:space="preserve"
            x="3.2786577"
            y="12.074121"
            id="text13455-1"
-           style="font-size:0.989081px;fill:#ffffff;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"><tspan
              sodipodi:role="line"
              id="tspan13453-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="3.2786577"
              y="12.074121">Z</tspan></text>
         <text
@@ -261,10 +261,10 @@
            x="3.3885052"
            y="14.482741"
            id="text13455-6"
-           style="font-size:0.989081px;fill:#ffffff;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"><tspan
              sodipodi:role="line"
              id="tspan13453-5"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="3.3885052"
              y="14.482741">S0</tspan></text>
         <text
@@ -272,10 +272,10 @@
            x="3.3885052"
            y="16.891361"
            id="text13455-5"
-           style="font-size:0.989081px;fill:#ffffff;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"><tspan
              sodipodi:role="line"
              id="tspan13453-69"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="3.3885052"
              y="16.891361">S1</tspan></text>
         <text
@@ -283,10 +283,10 @@
            x="3.3885052"
            y="19.299982"
            id="text13455-7"
-           style="font-size:0.989081px;fill:#ffffff;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"><tspan
              sodipodi:role="line"
              id="tspan13453-65"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="3.3885052"
              y="19.299982">S2</tspan></text>
         <text
@@ -294,165 +294,165 @@
            x="3.2781632"
            y="21.708603"
            id="text13455-0"
-           style="font-size:0.989081px;fill:#ffffff;fill-opacity:1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1"><tspan
              sodipodi:role="line"
              id="tspan13453-11"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="3.2781632"
              y="21.708603">E</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="2.5036063"
            id="text100602"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="2.5036063">VEE</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="4.8774018"
            id="text100602-5"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-5"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="4.8774018">VCC</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="7.2511969"
            id="text100602-9"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-1"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="7.2511969">GND</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="8.4875479"
              id="tspan130473" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="9.6249924"
            id="text100602-4"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-55"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="9.6249924">Y0</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="11.998788"
            id="text100602-0"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="11.998788">Y1</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="13.235139"
              id="tspan132371" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="14.372583"
            id="text100602-98"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-9"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="14.372583">Y2</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="15.608934"
              id="tspan132979" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="21.493969"
            id="text100602-97"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-0"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="21.493969">Y5</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="22.73032"
              id="tspan134551" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="19.120174"
            id="text100602-2"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-8"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="19.120174">Y4</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="20.356525"
              id="tspan133961" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="16.746378"
            id="text100602-27"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="16.746378">Y3</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="17.982729"
              id="tspan133437" /></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="23.867764"
            id="text100602-7"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan100600-98"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="23.867764">Y6</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
            x="15.209851"
            y="26.24156"
            id="text100602-78"
@@ -460,11 +460,11 @@
            inkscape:label="text100602-78"><tspan
              sodipodi:role="line"
              id="tspan100600-19"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="26.24156">Y7</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.24727"
              x="15.209851"
              y="27.477911"
              id="tspan137349" /></text>
@@ -473,18 +473,18 @@
          id="g2219">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24727"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24727"
            x="3.9145739"
            y="23.774099"
            id="text12067"
            transform="scale(0.98554141,1.0146707)"><tspan
              sodipodi:role="line"
              id="tspan12065"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.24727"
              x="3.9145739"
              y="23.774099">74HC4051</tspan><tspan
              sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:OCRA;fill:#ffffff;stroke-width:0.24727"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.989081px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.24727"
              x="3.9145739"
              y="25.01045"
              id="tspan21065">8-Mux</tspan></text>
@@ -502,6 +502,69 @@
            cy="10.002344"
            rx="0.3977789"
            ry="0.41002932" />
+      </g>
+      <g
+         id="g14060"
+         inkscape:label="decoupling capacitor"
+         transform="matrix(1,0,0,1.4763781,-1.2434214,-24.16331)">
+        <rect
+           style="fill:#502d16;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0357272;stroke-dasharray:0, 0.393001"
+           id="rect14050"
+           width="1.524"
+           height="0.50799996"
+           x="9.5249996"
+           y="21.462999" />
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0357272;stroke-dasharray:0, 0.393001"
+           id="rect14052"
+           width="0.50799996"
+           height="0.50799996"
+           x="11.049"
+           y="21.462999" />
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0357272;stroke-dasharray:0, 0.393001"
+           id="rect14054"
+           width="0.50799996"
+           height="0.50799996"
+           x="9.0170002"
+           y="21.462999" />
+      </g>
+      <g
+         id="g13950"
+         inkscape:label="10k resistor"
+         transform="translate(-1.243594,-1.6018401)">
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0434108;stroke-dasharray:0, 0.477521"
+           id="rect917"
+           width="1.524"
+           height="0.75"
+           x="9.5249996"
+           y="21.462999" />
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0434108;stroke-dasharray:0, 0.477521"
+           id="rect1007"
+           width="0.50799996"
+           height="0.75"
+           x="11.049"
+           y="21.462999" />
+        <rect
+           style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0434108;stroke-dasharray:0, 0.477521"
+           id="rect1009"
+           width="0.50799996"
+           height="0.75"
+           x="9.0170002"
+           y="21.462999" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="9.5214729"
+           y="22.114943"
+           id="text2691"><tspan
+             sodipodi:role="line"
+             id="tspan2689"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+             x="9.5214729"
+             y="22.114943">103</tspan></text>
       </g>
     </g>
   </g>
